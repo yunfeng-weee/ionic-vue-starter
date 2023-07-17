@@ -18,13 +18,13 @@
     "@ionic/core": "^4.0.0-beta.17",
     "@ionic/vue": "0.0.1",
     "ionic": "^4.5.0",
-    "vue": "^2.5.21",
+    "vue": "^2.7.14",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@capacitor/cli": "1.0.0-beta.11",
     "@vue/cli-service": "^3.0.5",
-    "vue-template-compiler": "^2.5.21"
+    "vue-template-compiler": "^2.7.14"
   }
 }
